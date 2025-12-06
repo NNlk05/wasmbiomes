@@ -5,6 +5,8 @@
 #include <string.h>
 #include <stdlib.h>
 
+// WSAMbiomes
+#include <emscripten.h>
 
 
 uint64_t *loadSavedSeeds(const char *fnam, uint64_t *scnt)

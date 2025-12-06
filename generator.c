@@ -6,6 +6,9 @@
 #include <string.h>
 #include <math.h>
 
+// WSAMbiomes
+#include <emscripten.h>
+
 
 int mapOceanMixMod(const Layer * l, int * out, int x, int z, int w, int h)
 {

@@ -1,8 +1,10 @@
-
 #include "noise.h"
 
 #include <math.h>
 #include <stdio.h>
+
+// WSAMbiomes
+#include <emscripten.h>
 
 // grad()
 #if 0

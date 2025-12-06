@@ -7,6 +7,9 @@
 #include <sys/types.h>
 #include <sys/stat.h>
 
+// WSAMbiomes
+#include <emscripten.h>
+
 
 #if defined(_WIN32)
 

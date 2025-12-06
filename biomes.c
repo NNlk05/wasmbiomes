@@ -1,6 +1,8 @@
 #include "biomes.h"
 #include <inttypes.h>
 
+// WSAMbiomes
+#include <emscripten.h>
 
 int biomeExists(int mc, int id)
 {

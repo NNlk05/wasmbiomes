@@ -5,6 +5,9 @@
 #include <math.h>
 #include <float.h>
 
+// WSAMbiomes
+#include <emscripten.h>
+
 
 //==============================================================================
 // Essentials
